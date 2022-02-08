@@ -1,4 +1,5 @@
-nice hit 
-[ACTION: ATTACK](act2/attack2.md)
+nice hit   
 
-[ACTION: GUARD](act2/guard2.md)
+[ACTION: ATTACK](../act2/attack2.md)
+
+[ACTION: GUARD](../act2/guard2.md)
