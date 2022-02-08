@@ -1,4 +1,4 @@
-Lol'd
+![sus](../../img/why.png) 
 
 [ACTION: Attack](../act2/attack2-2.md) 
 
