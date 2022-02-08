@@ -1,4 +1,8 @@
-You commit Genshin Impact to Bowser Jr. 
+HELLO BOWSER JR. IT IS ME.. LUIGI FROM
+
+![sus](../../../img/GI.png)
+
+Select your next action: 
 
 [ACTION: Attack](../act3/attack3-2.md) 
 
