@@ -7,3 +7,10 @@ In this totally legit boss fight you will experience literal jokes throughout yo
 Both of these characters will play differently for a unique experience and we totally didn't add XinYan from Genshin Impact. I mean...who would so such a thing? Aron?  
 
 [Begin your adventure...](sequence/characterchoice.md)
+
+[Or check out this awesome person](https://github.com/bmuellerhstat)  
+
+**CREDITS:** 
+
+**Mario** was done by Gina  
+**Luigi** was done by Aron  
