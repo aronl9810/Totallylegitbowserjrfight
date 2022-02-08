@@ -1,4 +1,4 @@
-![sus](../../img/why.png) 
+![sus](../../../img/why.png) 
 
 [ACTION: Attack](../act2/attack2-2.md) 
 
