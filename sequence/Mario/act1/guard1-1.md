@@ -1,4 +1,4 @@
-where did you get that shield from
+Hey, wait a sec,here did you get that shield from? Ok whatever I guess, you blocked the hit. 
 
 [ACTION: ATTACK](../act2/attack2-2.md)
 
