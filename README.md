@@ -15,5 +15,5 @@ Both of these characters will play differently for a unique experience and we to
 
 **CREDITS:**
 
-**Mario** was done by Gina
-**Luigi** was done by Aron
+**Mario** was done by Gina. 
+**Luigi** was done by Aron. 
