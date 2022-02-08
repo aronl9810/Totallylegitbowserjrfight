@@ -1,4 +1,4 @@
-start commiting war crimes i dunno
+Mario decides to throw a fireball at Bowser Jr. 
 
 [ACTION: ATTACK](act1/attack1-1.md)
 
