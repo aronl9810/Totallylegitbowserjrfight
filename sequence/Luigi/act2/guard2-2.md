@@ -1,5 +1,7 @@
-Bowser Jr does the fortnite dance
+Bowser Jr. :
 
-You have died...
+![lol](../../../img/hahayes.gif)
+
+**You have died...**
 
 [Back to Character Choice.](../../characterchoice.md)
