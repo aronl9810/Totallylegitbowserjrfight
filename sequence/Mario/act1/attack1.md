@@ -1,4 +1,4 @@
-nice hit   
+Mario said boo. Bowser Jr. drops his ice cream on the floor. Bowser Jr. is in pain. 
 
 [ACTION: ATTACK](../act2/attack2.md)
 

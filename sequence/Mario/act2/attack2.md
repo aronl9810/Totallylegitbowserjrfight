@@ -1,4 +1,4 @@
-hit  
+Mario takes Bowser Jr's pizza and throws it in the bathtub. Bowser Jr's sinks to the ground in despair. 
 
 [ACTION: ATTACK](../act3/attack3.md)
 
