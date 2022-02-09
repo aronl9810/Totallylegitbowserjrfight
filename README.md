@@ -18,3 +18,5 @@ Both of these characters will play differently for a unique experience and we to
 **Mario** was done by Gina. 
 
 **Luigi** was done by Aron.   
+
+All images goes to their respected authors. 
