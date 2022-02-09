@@ -1,5 +1,5 @@
 Why tho...
 
-You died...
+**You died...**
 
 [Back to Character Choice.](../../characterchoice.md)

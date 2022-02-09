@@ -1,7 +1,7 @@
 RANDOM CRIT!  
 Bowser Jr. : GRSUHGESRILUHSERP9UGESHPOGHPIUSEGHPIESGUHGESIUESGHIPGESHUESHGESOIUHSEGPOUSHEPUGESPISEGUPESB
 
-You've Won!!!
+**You've Won!!!**
 
 [Back to Character Choice.](../../characterchoice.md)
 
