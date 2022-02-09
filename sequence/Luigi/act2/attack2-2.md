@@ -1,4 +1,4 @@
-HELLO BOWSER JR. WANNA HER A FUNNY JOKE? IT IS. 
+HELLO BOWSER JR. WANNA HEAR A FUNNY JOKE? IT IS. 
 
 ![ohgodwhy](../../../img/hahayeslol.png)
 
