@@ -1,6 +1,8 @@
-HELLO BOWSER JR. IT IS ME.. LUIGI FROM
+HELLO BOWSER JR. WANNA HER A FUNNY JOKE? IT IS. 
 
-![sus](../../../img/GI.png)
+![ohgodwhy](../../../img/hahayeslol.png)
+
+FROM GENSHIN IMPACT
 
 Select your next action: 
 
