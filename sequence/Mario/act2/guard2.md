@@ -1,3 +1,3 @@
-dead lmao nerd. 
+Bowser Jr. takes out a guitar and shatters your eardrums Better luck next time....
 
 [Back to Character Choice.](../../characterchoice.md)
