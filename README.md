@@ -12,6 +12,8 @@ Both of these characters will play differently for a unique experience and we to
 
 [Or check out this awesome person](https://github.com/bmuellerhstat)
 
+[Or check out our website!](https://aronl9810.github.io/Totallylegitbowserjrfight/)
+
 
 **CREDITS:**
 
